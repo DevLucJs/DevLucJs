@@ -19,4 +19,7 @@
 <div> 
   <a href = ""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = ""><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+ 
+  ![Snake animation](https://github.com/DevLucJs/DevLucJs/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
