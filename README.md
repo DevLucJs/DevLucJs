@@ -12,6 +12,7 @@
 <a href="" target="_blank">
  <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Gmail"/>
 </a>
+<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -22,6 +23,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <br><br>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
