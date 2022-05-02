@@ -1,4 +1,4 @@
-<img align="right" height="465em" src="https://raw.githubusercontent.com/gist/DevLucJs/0a106c77a48c00d4246fae85e2425261/raw/f5b60801673f9bfe4974466dead9fdc43401134d/DevLucJs.svg"/>
+<img align="right" height="460em" src="https://raw.githubusercontent.com/gist/DevLucJs/0a106c77a48c00d4246fae85e2425261/raw/f5b60801673f9bfe4974466dead9fdc43401134d/DevLucJs.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevLucJs&color=red" alt="Profile views" /> </p>
