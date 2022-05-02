@@ -1,3 +1,6 @@
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevLucJs&color=red" alt="Profile views" /> </p>
+
 - 🔥 Junior Web Developer & focused on learning **JavaScript, HTML, CSS.**
 
 - 💬 Ask me about **JavaScript, HTML, CSS.**
