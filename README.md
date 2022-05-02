@@ -1,3 +1,5 @@
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/DevLucJs/29badfd55c979afd3c84a830f5dcd2f6/raw/fb4c64babed8aaf3081a1a030c99bf84e6d5f147/DevLucJs.svg"/>
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevLucJs&color=red" alt="Profile views" /> </p>
 
@@ -18,6 +20,6 @@
 
 <p align="left">
 <a href="https://github.com/DevLucJs">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=DevLucJs&show_icons=true&theme=dark" alt="DevLucJs's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucJs&layout=compact&theme=dark" alt="DevLucJs's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=DevLucJs&show_icons=true&theme=radical" alt="DevLucJs's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucJs&layout=compact&theme=radical" alt="DevLucJs's most languages"/>
 </p>
