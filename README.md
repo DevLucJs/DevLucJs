@@ -14,6 +14,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
+<a href="https://github.com/DevLucJs">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=DevLucJs&show_icons=true&theme=dark" alt="DevLucJs's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucJs&layout=compact&theme=dark" alt="DevLucJs's most languages"/>
 </p>
