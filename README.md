@@ -1,6 +1,7 @@
 <img align="right" height="400em" src="https://raw.githubusercontent.com/gist/DevLucJs/0a106c77a48c00d4246fae85e2425261/raw/f5b60801673f9bfe4974466dead9fdc43401134d/DevLucJs.svg"/>
 
-
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Lucas</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevLucJs&color=red" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer & focused on learning **JavaScript, HTML, CSS.**
 
@@ -9,7 +10,7 @@
  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="" target="_blank">
- <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Gmail"/>
+ <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 <br><br>
 
